@@ -1,7 +1,5 @@
 # Random Email Message Text File Generator
 Do you need a text file full of random email messages in a plain text format? Well look no further. Generate random emails with ease.
-
-Random Email Message Text File Generator
   
 Generates an email message in the format:
   From: Name <email>
