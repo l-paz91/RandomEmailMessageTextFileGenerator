@@ -59,6 +59,8 @@ void EmailGenerator::generate()
 		readOut << "Subject: " << mSubjects[random] << "\n\n";
 		readOut << mLoremIpson << endl;
 	}
+	
+	readOut << "\n----";	// to signal end of messages
 
 	cout << "\n\n.";
 	Sleep(100);
